@@ -36,7 +36,3 @@ The backend is implemented in Django with PostgreSQL, while the frontend uses An
 - Upload and display employee photos.
 - Filter and sort records in tables.
 - SPA navigation between department and employee views.
-
----
-
-This README summarizes the purpose and technologies of the project. For installation and usage details, please refer to specific instructions or included scripts.
